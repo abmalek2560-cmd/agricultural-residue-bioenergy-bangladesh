@@ -85,13 +85,10 @@ This repository contains a comprehensive data-driven assessment framework for qu
 ```markdown
 ![Electricity Generation Potential](outputs/figures/electricity_generation_potential.png)
 
-```
-
----
 
 ## 🛠️ 4. Methodology Flow Chart
 
-```text
+
 [FAOSTAT Raw Data (2017–2024)]
               │
               ▼
@@ -117,9 +114,6 @@ This repository contains a comprehensive data-driven assessment framework for qu
               ▼
      [Exported Master CSVs & Graphs]
 
-```
-
----
 
 ## 📁 5. Repository Contents & Exported Datasets
 
@@ -136,7 +130,6 @@ This repository contains a comprehensive data-driven assessment framework for qu
 
 
 
----
 
 ## 👤 Author
 
