@@ -1,16 +1,9 @@
 # agricultural-residue-bioenergy-bangladesh
-আপনার Google Colab নোটবুক থেকে প্রাপ্ত সমস্ত ডেটা এবং টেবিলগুলো (`Crop Production Table`, `Change Summary Table`, `Gross Residue Scenario Table`, এবং ফাইনাল `Master Summary Table`) যুক্ত করে একটি সম্পূর্ণ এবং প্রফেশনাল **GitHub README.md** নিচে তৈরি করে দেওয়া হলো।
 
-আপনার GitHub প্রজেক্টে গ্রাফ কোথায় কোথায় বসবে, সেটির নির্দেশিকাও মার্কডাউনে যুক্ত করা আছে। আপনি চাইলে এই সম্পূর্ণ কোডটি কপি করে সরাসরি আপনার প্রজেক্টের `README.md` ফাইলে পেস্ট করে দিতে পারেন:
-
----
-
-```markdown
 # Assessment of Agricultural Residue Availability, Bioenergy, and Electricity Potential in Bangladesh (2017–2024)
 
 This repository contains a comprehensive data-driven assessment framework for quantifying crop production trends, gross agricultural residues, recoverable dry biomass, and thermal bioenergy/electricity generation potential in Bangladesh from 2017 to 2024 using official [FAOSTAT data portal](https://www.fao.org/faostat/?utm_source=chatgpt.com) metrics.
 
----
 
 ## 🌾 1. Research Overview & Scope
 - **Study Period:** 2017–2024
