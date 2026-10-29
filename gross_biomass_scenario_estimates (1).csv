@@ -1,0 +1,33 @@
+Year,Residue,Crop_production_tonnes,RPR_low,RPR_central,RPR_high,Gross_residue_low_tonnes,Gross_residue_central_tonnes,Gross_residue_high_tonnes,Reference,DOI,Caution
+2017,Rice straw,52079606.96,0.8,1.5,2.5,41663685.568,78119410.44,130199017.4,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Rice product basis must be checked
+2017,Rice husk,52079606.96,0.17,0.2,0.22,8853533.183200002,10415921.392,11457513.531200001,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Husk ratio depends on paddy/grain basis
+2017,Maize stover,3025392.0,0.9,2.0,4.0,2722852.8000000003,6050784.0,12101568.0,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Broad literature range; local validation needed
+2017,Sugarcane bagasse,3862775.0,0.05,0.15,0.2,193138.75,579416.25,772555.0,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Best based on cane crushed at sugar mills
+2018,Rice straw,54614714.97,0.8,1.5,2.5,43691771.976,81922072.455,136536787.425,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Rice product basis must be checked
+2018,Rice husk,54614714.97,0.17,0.2,0.22,9284501.5449,10922942.994,12015237.293399999,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Husk ratio depends on paddy/grain basis
+2018,Maize stover,3288102.0,0.9,2.0,4.0,2959291.8000000003,6576204.0,13152408.0,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Broad literature range; local validation needed
+2018,Sugarcane bagasse,3638731.0,0.05,0.15,0.2,181936.55000000002,545809.65,727746.2000000001,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Best based on cane crushed at sugar mills
+2019,Rice straw,54784186.92,0.8,1.5,2.5,43827349.536000006,82176280.38,136960467.3,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Rice product basis must be checked
+2019,Rice husk,54784186.92,0.17,0.2,0.22,9313311.776400002,10956837.384000001,12052521.1224,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Husk ratio depends on paddy/grain basis
+2019,Maize stover,3569321.0,0.9,2.0,4.0,3212388.9,7138642.0,14277284.0,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Broad literature range; local validation needed
+2019,Sugarcane bagasse,3141923.0,0.05,0.15,0.2,157096.15,471288.45,628384.6,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Best based on cane crushed at sugar mills
+2020,Rice straw,56056815.18,0.8,1.5,2.5,44845452.144,84085222.77,140142037.95,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Rice product basis must be checked
+2020,Rice husk,56056815.18,0.17,0.2,0.22,9529658.5806,11211363.036,12332499.3396,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Husk ratio depends on paddy/grain basis
+2020,Maize stover,4015306.0,0.9,2.0,4.0,3613775.4,8030612.0,16061224.0,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Broad literature range; local validation needed
+2020,Sugarcane bagasse,3682951.0,0.05,0.15,0.2,184147.55000000002,552442.65,736590.2000000001,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Best based on cane crushed at sugar mills
+2021,Rice straw,56772472.25,0.8,1.5,2.5,45417977.800000004,85158708.375,141931180.625,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Rice product basis must be checked
+2021,Rice husk,56772472.25,0.17,0.2,0.22,9651320.2825,11354494.450000001,12489943.895,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Husk ratio depends on paddy/grain basis
+2021,Maize stover,4116438.0,0.9,2.0,4.0,3704794.2,8232876.0,16465752.0,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Broad literature range; local validation needed
+2021,Sugarcane bagasse,3332546.0,0.05,0.15,0.2,166627.30000000002,499881.89999999997,666509.2000000001,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Best based on cane crushed at sugar mills
+2022,Rice straw,57776021.6,0.8,1.5,2.5,46220817.28,86664032.4,144440054.0,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Rice product basis must be checked
+2022,Rice husk,57776021.6,0.17,0.2,0.22,9821923.672,11555204.32,12710724.752,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Husk ratio depends on paddy/grain basis
+2022,Maize stover,4261845.0,0.9,2.0,4.0,3835660.5,8523690.0,17047380.0,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Broad literature range; local validation needed
+2022,Sugarcane bagasse,3087428.0,0.05,0.15,0.2,154371.4,463114.2,617485.6,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Best based on cane crushed at sugar mills
+2023,Rice straw,60601180.62,0.8,1.5,2.5,48480944.496,90901770.92999999,151502951.54999998,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Rice product basis must be checked
+2023,Rice husk,60601180.62,0.17,0.2,0.22,10302200.7054,12120236.124,13332259.736399999,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Husk ratio depends on paddy/grain basis
+2023,Maize stover,4592507.0,0.9,2.0,4.0,4133256.3000000003,9185014.0,18370028.0,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Broad literature range; local validation needed
+2023,Sugarcane bagasse,2982546.0,0.05,0.15,0.2,149127.30000000002,447381.89999999997,596509.2000000001,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Best based on cane crushed at sugar mills
+2024,Rice straw,60570453.05,0.8,1.5,2.5,48456362.44,90855679.57499999,151426132.625,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Rice product basis must be checked
+2024,Rice husk,60570453.05,0.17,0.2,0.22,10296977.0185,12114090.61,13325499.671,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Husk ratio depends on paddy/grain basis
+2024,Maize stover,4592508.0,0.9,2.0,4.0,4133257.2,9185016.0,18370032.0,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Broad literature range; local validation needed
+2024,Sugarcane bagasse,2933694.0,0.05,0.15,0.2,146684.7,440054.1,586738.8,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Best based on cane crushed at sugar mills

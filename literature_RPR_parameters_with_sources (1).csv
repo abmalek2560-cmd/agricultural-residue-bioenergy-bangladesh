@@ -1,0 +1,5 @@
+Residue,Crop_column,RPR_low,RPR_central,RPR_high,Reference,DOI,Caution
+Rice straw,Rice_tonnes,0.8,1.5,2.5,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Rice product basis must be checked
+Rice husk,Rice_tonnes,0.17,0.2,0.22,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Husk ratio depends on paddy/grain basis
+Maize stover,Maize_tonnes,0.9,2.0,4.0,"Yevich & Logan (2003), Table 3",https://doi.org/10.1029/2002GB001952,Broad literature range; local validation needed
+Sugarcane bagasse,Sugar_cane_tonnes,0.05,0.15,0.2,"Yevich & Logan (2003), Table 3; FAO conversion table",https://doi.org/10.1029/2002GB001952,Best based on cane crushed at sugar mills
