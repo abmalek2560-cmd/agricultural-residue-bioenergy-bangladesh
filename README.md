@@ -121,9 +121,7 @@ This repository contains a comprehensive data-driven assessment framework for qu
 
 ## 📁 5. Repository Contents & Exported Datasets
 
-* **`notebooks/`**: Contains the complete Google Colab python code notebook (`Assessment of Agricultural Residue.ipynb`).
-* **`outputs/figures/`**: Contains generated trend and scenario graphs.
-* **`data/`**: Cleaned CSV outputs and master summary reports:
+ Cleaned CSV outputs and master summary reports:
 * `bangladesh_crop_production_clean.csv`
 * `annual_crop_production_table.csv`
 * `crop_production_change_summary.csv`
@@ -137,7 +135,7 @@ This repository contains a comprehensive data-driven assessment framework for qu
 
 ## 👤 Author
 
-**Md. Abdul Malek**
+Md. Abdul Malek
 
 Department of Agricultural and Industrial Engineering
 
