@@ -69,8 +69,7 @@ This repository contains a comprehensive data-driven assessment framework for qu
 ### A. Annual Crop Production Trends
 ```markdown
 
-<img width="989" height="490" alt="download (23)" src="https://github.com/user-attachments/assets/0e4e4e04-3638-46b1-9730-f8bf2bb71dac" />
-<img width="1089" height="590" alt="download (24)" src="https://github.com/user-attachments/assets/c854b3d7-ca65-40ee-b374-44c36da4190a" />
+
 <img width="889" height="440" alt="download (25)" src="https://github.com/user-attachments/assets/b39965ab-026e-459a-852d-de2660c004c4" />
 <img width="889" height="440" alt="download (26)" src="https://github.com/user-attachments/assets/c834340b-9b85-4809-921b-2bf64240e203" />
 <img width="889" height="440" alt="download (27)" src="https://github.com/user-attachments/assets/71093448-e48d-4923-ac72-bbb5ab57c90f" />
