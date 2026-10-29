@@ -1,3 +1,6 @@
+<img width="889" height="490" alt="download (28)" src="https://github.com/user-attachments/assets/0a61977b-c57f-4d95-8ba7-0897f850fd27" />
+<img width="889" height="490" alt="download (29)" src="https://github.com/user-attachments/assets/78d7647a-4f13-4cdf-b9b3-c52977b1a391" />
+<img width="889" height="490" alt="download (30)" src="https://github.com/user-attachments/assets/3acdc348-4838-4e89-8c4e-811a49db2fd2" />
 
 # agricultural-residue-bioenergy-bangladesh
 
@@ -64,54 +67,59 @@ This repository contains a comprehensive data-driven assessment framework for qu
 ---
 
 ## 📈 3. Visual Graphs & Trends
-*(Download your generated plots from Colab, place them in an `outputs/figures/` folder, and link them below)*
+
 
 ### A. Annual Crop Production Trends
 ```markdown
-<img width="889" height="490" alt="download (30)" src="https://github.com/user-attachments/assets/7f4b48ef-5ed7-49bb-b198-66aebb7be8d4" />
+<img width="889" height="490" alt="download (28)" src="https://github.com/user-attachments/assets/0a61977b-c57f-4d95-8ba7-0897f850fd27" />
+<img width="889" height="490" alt="download (29)" src="https://github.com/user-attachments/assets/78d7647a-4f13-4cdf-b9b3-c52977b1a391" />
+<img width="889" height="490" alt="download (30)" src="https://github.com/user-attachments/assets/3acdc348-4838-4e89-8c4e-811a49db2fd2" />
 
 ```
 
 ### B. Gross Residue Scenarios (Low, Central, High)
 
 ```markdown
-![Gross Residue Scenarios](outputs/figures/gross_residue_scenarios.png)
+
+<img width="1089" height="590" alt="download (24)" src="https://github.com/user-attachments/assets/1e8e4090-ddf4-4b1e-b875-2c9af3bb11b6" />
+
 
 ```
 
 ### C. Potential Annual Electricity Generation
 
 ```markdown
-![Electricity Generation Potential](outputs/figures/electricity_generation_potential.png)
+<img width="989" height="490" alt="download (23)" src="https://github.com/user-attachments/assets/2e5721d8-77a8-462a-ae6e-b368392c1f27" />
+
 
 
 ## 🛠️ 4. Methodology Flow Chart
 
 
-[FAOSTAT Raw Data (2017–2024)]
+   1.FAOSTAT Raw Data (2017–2024)
               │
               ▼
-    [Data Cleaning & Filtering] 
-      (Bangladesh | Production)
+   2.Data Cleaning & Filtering 
+    (Bangladesh | Production)
               │
               ▼
-   [Crop Production Analysis]
+    3.Crop Production Analysis
      (Trends & % Growth)
               │
               ▼
-   [Literature-Based RPR & Scenarios]
+   4.Literature-Based RPR & Scenarios
      (Low / Central / High RPR)
               │
               ▼
-[Gross & Recoverable Biomass Calculation]
+  5.Gross & Recoverable Biomass Calculation
      (Moisture & Recovery Factors)
-              │
-              ▼
-  [Energy & Electricity Estimation]
+               │
+               ▼
+  6.Energy & Electricity Estimation
     (LHV & 20% Conversion Efficiency)
               │
               ▼
-     [Exported Master CSVs & Graphs]
+     7.Exported Master CSVs & Graphs
 
 
 ## 📁 5. Repository Contents & Exported Datasets
