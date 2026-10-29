@@ -1,3 +1,11 @@
+<img width="989" height="490" alt="download (23)" src="https://github.com/user-attachments/assets/d0f12d36-ffcc-4b7f-a3c1-221a94766f21" />
+<img width="1089" height="590" alt="download (24)" src="https://github.com/user-attachments/assets/5e149a9f-0f8e-4d7a-8f83-09536b3396b8" />
+<img width="889" height="440" alt="download (25)" src="https://github.com/user-attachments/assets/5f573f93-df65-4be3-914b-f764abafcb00" />
+<img width="889" height="440" alt="download (26)" src="https://github.com/user-attachments/assets/ff7d72a9-c26c-4216-afbc-e4b6a1cae78d" />
+<img width="889" height="440" alt="download (27)" src="https://github.com/user-attachments/assets/c58d0e65-a83b-4dc1-a69f-fc72b0ecf831" />
+<img width="889" height="490" alt="download (28)" src="https://github.com/user-attachments/assets/1ff1d9e8-db7d-45db-8e56-e5bc1cdda6a8" />
+<img width="889" height="490" alt="download (29)" src="https://github.com/user-attachments/assets/2a43135e-45b7-44b1-828d-c1faf2c68b7f" />
+<img width="889" height="490" alt="download (30)" src="https://github.com/user-attachments/assets/a29a1c53-ae20-4cb6-b709-035dfb44e6c4" />
 # agricultural-residue-bioenergy-bangladesh
 
 # Assessment of Agricultural Residue Availability, Bioenergy, and Electricity Potential in Bangladesh (2017–2024)
