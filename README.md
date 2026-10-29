@@ -1,11 +1,4 @@
-<img width="989" height="490" alt="download (23)" src="https://github.com/user-attachments/assets/d0f12d36-ffcc-4b7f-a3c1-221a94766f21" />
-<img width="1089" height="590" alt="download (24)" src="https://github.com/user-attachments/assets/5e149a9f-0f8e-4d7a-8f83-09536b3396b8" />
-<img width="889" height="440" alt="download (25)" src="https://github.com/user-attachments/assets/5f573f93-df65-4be3-914b-f764abafcb00" />
-<img width="889" height="440" alt="download (26)" src="https://github.com/user-attachments/assets/ff7d72a9-c26c-4216-afbc-e4b6a1cae78d" />
-<img width="889" height="440" alt="download (27)" src="https://github.com/user-attachments/assets/c58d0e65-a83b-4dc1-a69f-fc72b0ecf831" />
-<img width="889" height="490" alt="download (28)" src="https://github.com/user-attachments/assets/1ff1d9e8-db7d-45db-8e56-e5bc1cdda6a8" />
-<img width="889" height="490" alt="download (29)" src="https://github.com/user-attachments/assets/2a43135e-45b7-44b1-828d-c1faf2c68b7f" />
-<img width="889" height="490" alt="download (30)" src="https://github.com/user-attachments/assets/a29a1c53-ae20-4cb6-b709-035dfb44e6c4" />
+
 # agricultural-residue-bioenergy-bangladesh
 
 # Assessment of Agricultural Residue Availability, Bioenergy, and Electricity Potential in Bangladesh (2017–2024)
@@ -75,9 +68,15 @@ This repository contains a comprehensive data-driven assessment framework for qu
 
 ### A. Annual Crop Production Trends
 ```markdown
-![Rice Production Trend](outputs/figures/rice_production_trend.png)
-![Maize Production Trend](outputs/figures/maize_production_trend.png)
-![Sugarcane Production Trend](outputs/figures/sugar_cane_production_trend.png)
+
+<img width="989" height="490" alt="download (23)" src="https://github.com/user-attachments/assets/0e4e4e04-3638-46b1-9730-f8bf2bb71dac" />
+<img width="1089" height="590" alt="download (24)" src="https://github.com/user-attachments/assets/c854b3d7-ca65-40ee-b374-44c36da4190a" />
+<img width="889" height="440" alt="download (25)" src="https://github.com/user-attachments/assets/b39965ab-026e-459a-852d-de2660c004c4" />
+<img width="889" height="440" alt="download (26)" src="https://github.com/user-attachments/assets/c834340b-9b85-4809-921b-2bf64240e203" />
+<img width="889" height="440" alt="download (27)" src="https://github.com/user-attachments/assets/71093448-e48d-4923-ac72-bbb5ab57c90f" />
+<img width="889" height="490" alt="download (28)" src="https://github.com/user-attachments/assets/2ce7b9eb-2441-4777-bca0-29b3dc896eb6" />
+<img width="889" height="490" alt="download (29)" src="https://github.com/user-attachments/assets/430c9d38-c22d-49c6-a5b2-b5dd79196a6b" />
+<img width="889" height="490" alt="download (30)" src="https://github.com/user-attachments/assets/7f4b48ef-5ed7-49bb-b198-66aebb7be8d4" />
 
 ```
 
