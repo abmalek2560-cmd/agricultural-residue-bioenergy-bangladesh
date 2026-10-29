@@ -119,21 +119,13 @@ This repository contains a comprehensive data-driven assessment framework for qu
      7.Exported Master CSVs & Graphs
 
 
-## 📁 5. Repository Contents & Exported Datasets
-
- Cleaned CSV outputs and master summary reports:
-* `bangladesh_crop_production_clean.csv`
-* `annual_crop_production_table.csv`
-* `crop_production_change_summary.csv`
-* `gross_biomass_scenario_estimates.csv`
-* `recoverable_biomass_energy_potential_2024.csv`
-* `electricity_generation_potential_2024.csv`
-* `master_biomass_energy_summary_2024.csv`
+ 
 
 
 
 
-## 👤 Author
+
+ 👤 Author
 
 Md. Abdul Malek
 
