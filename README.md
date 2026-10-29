@@ -1,6 +1,3 @@
-<img width="889" height="490" alt="download (28)" src="https://github.com/user-attachments/assets/0a61977b-c57f-4d95-8ba7-0897f850fd27" />
-<img width="889" height="490" alt="download (29)" src="https://github.com/user-attachments/assets/78d7647a-4f13-4cdf-b9b3-c52977b1a391" />
-<img width="889" height="490" alt="download (30)" src="https://github.com/user-attachments/assets/3acdc348-4838-4e89-8c4e-811a49db2fd2" />
 
 # agricultural-residue-bioenergy-bangladesh
 
